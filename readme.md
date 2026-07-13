@@ -24,18 +24,6 @@ Pastikan Python 3 sudah terpasang, lalu jalankan:
 python password_generator.py
 ```
 
-## Cara Build Jadi .exe (Windows)
-
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
-2. Build:
-   ```bash
-   pyinstaller --onefile --windowed --icon=icon.ico --name=PasswordGenerator password_generator.py
-   ```
-3. File hasil ada di folder `dist/PasswordGenerator.exe`.
-
 ## Struktur Proyek
 
 ```
