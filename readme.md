@@ -14,7 +14,7 @@ Aplikasi desktop sederhana untuk membuat random password, dibuat dengan Python +
 
 ## Screenshot
 
-_(tambahkan screenshot aplikasi kamu di sini)_
+![System Architecture](screenshot.png)
 
 ## Cara Menjalankan dari Source
 
